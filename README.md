@@ -10,3 +10,5 @@
 # Math
 [UniMath](https://sites.google.com/a/g2.nctu.edu.tw/unimath/)  
 [Regular expression visualizer](http://regexvisualizer.apphb.com/)
+# Other
+[資料視覺化](http://blog.infographics.tw/)
