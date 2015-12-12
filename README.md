@@ -25,7 +25,8 @@
 # Algorithm
 [算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)
 # Security
-[Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)
+[Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)  
+[加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)
 # Interview
 [程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)
 # Other
