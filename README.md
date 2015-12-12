@@ -1,7 +1,8 @@
 # UI
 [UI Movement](http://uimovement.com/)  
 [Use Your Interface](http://useyourinterface.com/)  
-[提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)
+[提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)  
+[响应式Web设计的9项基本原则](http://blog.jobbole.com/80012/)
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
