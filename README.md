@@ -21,6 +21,6 @@
 # Interview
 [程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)
 # Other
-[資料視覺化](http://blog.infographics.tw/)
+[資料視覺化](http://blog.infographics.tw/)  
 [干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
 
