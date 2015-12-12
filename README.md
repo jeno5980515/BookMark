@@ -1,7 +1,15 @@
+# UI
+[UI Movement](http://uimovement.com/)
+[Use Your Interface](http://useyourinterface.com/)
+[提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
 [Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+# PHP
+[PHP开发者常犯的10个MySQL错误](http://blog.jobbole.com/86194/)
+# SQL
+[格式化 SQL 来提高效率](http://blog.jobbole.com/85900/)
 # MySQL
 [MySQL中10个出人意料的操作结果](http://article.yeeyan.org/view/41036/151325)
 # Game Design
@@ -10,5 +18,9 @@
 # Math
 [UniMath](https://sites.google.com/a/g2.nctu.edu.tw/unimath/)  
 [Regular expression visualizer](http://regexvisualizer.apphb.com/)
+# Interview
+[程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)
 # Other
 [資料視覺化](http://blog.infographics.tw/)
+[干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
+
