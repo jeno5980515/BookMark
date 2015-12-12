@@ -22,6 +22,8 @@
 # Math
 [UniMath](https://sites.google.com/a/g2.nctu.edu.tw/unimath/)  
 [Regular expression visualizer](http://regexvisualizer.apphb.com/)
+# Machine Learning
+[推荐！国外程序员整理的机器学习资源大全](http://blog.jobbole.com/73806/)
 # Algorithm
 [算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)
 # Security
