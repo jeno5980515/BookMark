@@ -10,7 +10,8 @@
 # PHP
 [PHP开发者常犯的10个MySQL错误](http://blog.jobbole.com/86194/)
 # SQL
-[格式化 SQL 来提高效率](http://blog.jobbole.com/85900/)
+[格式化 SQL 来提高效率](http://blog.jobbole.com/85900/)  
+[画图解释 SQL join 语句](http://blog.jobbole.com/40443/)
 # MySQL
 [MySQL中10个出人意料的操作结果](http://article.yeeyan.org/view/41036/151325)
 # Python
