@@ -28,7 +28,8 @@
 [Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)  
 [加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)
 # Interview
-[程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)
+[程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)  
+[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)
 # Other
 [資料視覺化](http://blog.infographics.tw/)  
 [干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
