@@ -23,6 +23,8 @@
 [Regular expression visualizer](http://regexvisualizer.apphb.com/)
 # Algorithm
 [算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)
+# Security
+[Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)
 # Interview
 [程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)
 # Other
