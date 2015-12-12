@@ -13,6 +13,8 @@
 [格式化 SQL 来提高效率](http://blog.jobbole.com/85900/)
 # MySQL
 [MySQL中10个出人意料的操作结果](http://article.yeeyan.org/view/41036/151325)
+# Python
+[Python 代码性能优化技巧](http://blog.jobbole.com/77042/)
 # Game Design
 [遊戲思維](http://pettittechen.blogspot.tw/)  
 [Ming-Lun "Allen" Chou](http://allenchou.net)
