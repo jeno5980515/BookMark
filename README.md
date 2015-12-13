@@ -27,7 +27,7 @@
 [推荐！国外程序员整理的机器学习资源大全](http://blog.jobbole.com/73806/)
 # Algorithm
 [算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)
-# Computer Organization
+# Computer Architecture
 [什么是堆和栈，它们在哪儿？](http://www.perfect-is-shit.com/what-and-where-are-the-stack-and-heap.html)
 # Security
 [Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)  
