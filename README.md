@@ -6,7 +6,8 @@
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
-[Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+[Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
+[父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)
 # PHP
 [PHP开发者常犯的10个MySQL错误](http://blog.jobbole.com/86194/)
 # SQL
