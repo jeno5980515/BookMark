@@ -3,11 +3,14 @@
 [Use Your Interface](http://useyourinterface.com/)  
 [提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)  
 [响应式Web设计的9项基本原则](http://blog.jobbole.com/80012/)
+# Web 
+[DOM事件简介](http://blog.jobbole.com/52430/)  
+[父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)  
+[干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
-[Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)  
-[父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)
+[Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 # PHP
 [PHP开发者常犯的10个MySQL错误](http://blog.jobbole.com/86194/)
 # SQL
@@ -39,7 +42,6 @@
 [BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)  
 [程序员面试笔试宝典学习记录（一）](http://blog.jobbole.com/75106/)
 # Other
-[資料視覺化](http://blog.infographics.tw/)  
-[干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
+[資料視覺化](http://blog.infographics.tw/)
 
 
