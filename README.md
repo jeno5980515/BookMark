@@ -2,7 +2,8 @@
 [UI Movement](http://uimovement.com/)  
 [Use Your Interface](http://useyourinterface.com/)  
 [提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)  
-[响应式Web设计的9项基本原则](http://blog.jobbole.com/80012/)
+[响应式Web设计的9项基本原则](http://blog.jobbole.com/80012/)  
+[APP动效之美需内外兼修](http://blog.jobbole.com/74974/)
 # Web 
 [DOM事件简介](http://blog.jobbole.com/52430/)  
 [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)  
