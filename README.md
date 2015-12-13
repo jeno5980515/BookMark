@@ -21,7 +21,8 @@
 [Ming-Lun "Allen" Chou](http://allenchou.net)
 # Math
 [UniMath](https://sites.google.com/a/g2.nctu.edu.tw/unimath/)  
-[Regular expression visualizer](http://regexvisualizer.apphb.com/)
+[Regular expression visualizer](http://regexvisualizer.apphb.com/)  
+[傅里叶分析之掐死教程（完整版）更新于2014.06.06](http://zhuanlan.zhihu.com/wille/19763358)
 # Machine Learning
 [推荐！国外程序员整理的机器学习资源大全](http://blog.jobbole.com/73806/)
 # Algorithm
