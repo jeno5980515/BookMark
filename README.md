@@ -26,7 +26,8 @@
 # Machine Learning
 [推荐！国外程序员整理的机器学习资源大全](http://blog.jobbole.com/73806/)
 # Algorithm
-[算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)
+[算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)  
+[算法系列：电梯调度](http://blog.jobbole.com/74672/)
 # Computer Architecture
 [什么是堆和栈，它们在哪儿？](http://www.perfect-is-shit.com/what-and-where-are-the-stack-and-heap.html)
 # Security
