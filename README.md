@@ -10,7 +10,8 @@
 # Web 
 [DOM事件简介](http://blog.jobbole.com/52430/)  
 [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)  
-[干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)
+[干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)  
+[Web开发常见的几个漏洞解决方法](http://www.cnblogs.com/wuhuacong/archive/2013/04/15/3022011.html)
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
