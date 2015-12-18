@@ -39,7 +39,8 @@
 # Algorithm
 [算法：塔防游戏中的路径寻找](http://blog.jobbole.com/82629/)  
 [算法系列：电梯调度](http://blog.jobbole.com/74672/)  
-[关于寻路算法的一些思考（1）：A*算法介绍](http://blog.jobbole.com/71044/)
+[关于寻路算法的一些思考（1）：A*算法介绍](http://blog.jobbole.com/71044/)  
+[2048-AI程序算法分析](http://blog.codinglabs.org/articles/2048-ai-analysis.html)
 # Computer Architecture
 [什么是堆和栈，它们在哪儿？](http://www.perfect-is-shit.com/what-and-where-are-the-stack-and-heap.html)
 # Security
