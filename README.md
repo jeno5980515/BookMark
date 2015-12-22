@@ -27,6 +27,8 @@
 [Python 代码性能优化技巧](http://blog.jobbole.com/77042/)
 # C/C++
 [DYKC - 01 你所不知道的C語言 Raw-Cut 搶鮮版](https://www.youtube.com/watch?v=daV0F9Tal_w)
+# PhoneGap
+[Tutorial: How To Write a PhoneGap plugin for Android](http://devgirl.org/2013/07/17/tutorial-how-to-write-a-phonegap-plugin-for-android/)
 # Game Design
 [遊戲思維](http://pettittechen.blogspot.tw/)  
 [Ming-Lun "Allen" Chou](http://allenchou.net)
