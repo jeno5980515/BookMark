@@ -16,6 +16,8 @@
 [OXXO.STUDIO](http://www.oxxostudio.tw/)
 # JavaScript
 [Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+# React
+[pure render](http://zhuanlan.zhihu.com/purerender)
 # PHP
 [PHP开发者常犯的10个MySQL错误](http://blog.jobbole.com/86194/)
 # SQL
