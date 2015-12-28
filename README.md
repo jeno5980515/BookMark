@@ -33,7 +33,8 @@
 [Tutorial: How To Write a PhoneGap plugin for Android](http://devgirl.org/2013/07/17/tutorial-how-to-write-a-phonegap-plugin-for-android/)
 # Game Design
 [遊戲思維](http://pettittechen.blogspot.tw/)  
-[Ming-Lun "Allen" Chou](http://allenchou.net)
+[Ming-Lun "Allen" Chou](http://allenchou.net)  
+[旭曜靈（Arthur）的遊戲人生Online](http://yawling.blogspot.com/)
 # Math
 [UniMath](https://sites.google.com/a/g2.nctu.edu.tw/unimath/)  
 [Regular expression visualizer](http://regexvisualizer.apphb.com/)  
