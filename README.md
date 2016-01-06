@@ -50,7 +50,10 @@
 [什么是堆和栈，它们在哪儿？](http://www.perfect-is-shit.com/what-and-where-are-the-stack-and-heap.html)
 # Security
 [Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)  
-[加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)
+[加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)  
+[Heap exploitation](http://www.slideshare.net/AngelBoy1/heap-exploitation-51891400)  
+[Return to dlresolve](http://www.slideshare.net/AngelBoy1/re2dlresolve)  
+[Rootkit 101](http://blog.cmj.tw/rootkit_101.htm)
 # Interview
 [程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)  
 [BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)  
