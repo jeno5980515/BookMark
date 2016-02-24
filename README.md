@@ -6,14 +6,16 @@
 [提升Web用户体验的71个设计要点](http://blog.jobbole.com/88951/)  
 [响应式Web设计的9项基本原则](http://blog.jobbole.com/80012/)  
 [APP动效之美需内外兼修](http://blog.jobbole.com/74974/)  
-[UI中的基本动效：指向性动效](http://blog.jobbole.com/69005/)
+[UI中的基本动效：指向性动效](http://blog.jobbole.com/69005/)  
+[Animate your HTML5](http://animateyourhtml5.appspot.com/pres/#1)  
 # Web 
 [DOM事件简介](http://blog.jobbole.com/52430/)  
 [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)  
 [干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)  
 [Web开发常见的几个漏洞解决方法](http://www.cnblogs.com/wuhuacong/archive/2013/04/15/3022011.html)
 # HTML/CSS
-[OXXO.STUDIO](http://www.oxxostudio.tw/)
+[OXXO.STUDIO](http://www.oxxostudio.tw/)  
+[CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices/#title)
 # JavaScript
 [Google Coding Style](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 # React
@@ -57,7 +59,8 @@
 # Interview
 [程序员面试：电话面试问答Top 50](http://blog.jobbole.com/84618/)  
 [BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)  
-[程序员面试笔试宝典学习记录（一）](http://blog.jobbole.com/75106/)
+[程序员面试笔试宝典学习记录（一）](http://blog.jobbole.com/75106/)  
+[程式語言面試考題集錦](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
 # Other
 [資料視覺化](http://blog.infographics.tw/)
 
