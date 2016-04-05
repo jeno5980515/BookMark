@@ -12,7 +12,11 @@
 [DOM事件简介](http://blog.jobbole.com/52430/)  
 [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)  
 [干货：Web应用上线之前程序员应该了解的技术细节](http://blog.jobbole.com/86786/)  
-[Web开发常见的几个漏洞解决方法](http://www.cnblogs.com/wuhuacong/archive/2013/04/15/3022011.html)
+[Web开发常见的几个漏洞解决方法](http://www.cnblogs.com/wuhuacong/archive/2013/04/15/3022011.html)  
+[MUKI space*](http://muki.tw/tech/)  
+[前端网](http://www.w3cfuns.com/)  
+[《高性能网站建设指南》读后随感](http://dbanotes.net/web/high_performance_web_site.html)  
+[Dirty Tricks From The Dark  Corners Of Front-End](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end)
 # HTML/CSS
 [OXXO.STUDIO](http://www.oxxostudio.tw/)  
 [CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices/#title)  
@@ -63,6 +67,8 @@
 [程序员面试笔试宝典学习记录（一）](http://blog.jobbole.com/75106/)  
 [程式語言面試考題集錦](https://softnshare.wordpress.com/2016/02/21/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E9%9B%86%E9%8C%A6/)
 # Other
-[資料視覺化](http://blog.infographics.tw/)
+[資料視覺化](http://blog.infographics.tw/)  
+[码农网](http://www.codeceo.com/)  
+[伯乐在线](http://blog.jobbole.com/)
 
 
