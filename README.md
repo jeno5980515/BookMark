@@ -16,7 +16,8 @@
 [MUKI space*](http://muki.tw/tech/)  
 [前端网](http://www.w3cfuns.com/)  
 [《高性能网站建设指南》读后随感](http://dbanotes.net/web/high_performance_web_site.html)  
-[Dirty Tricks From The Dark  Corners Of Front-End](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end)
+[Dirty Tricks From The Dark  Corners Of Front-End](https://speakerdeck.com/smashingmag/dirty-tricks-from-the-dark-corners-of-front-end)  
+[Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html#csslink=)
 # Front-end
 [淘宝前端团队: Taobao FED](http://taobaofed.org) 
 # HTML/CSS
